@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Roboto:wght@400;900&display=swap');
+
+:root {
+	--font-title: 'Roboto', sans-serif;
+	--font-body: 'Montserrat', sans-serif;
+
+	--gradient-text: linear-gradient(
+		115deg,
+		rgba(91, 95, 151, 1) 0%,
+		rgba(255, 107, 108, 1) 49%,
+		rgba(40, 160, 132, 1) 100%
+	);
+
+	--gradient-bar: linear-gradient(
+		90deg,
+		rgba(91, 95, 151, 1) 0%,
+		rgba(255, 107, 108, 1) 49%,
+		rgba(255, 255, 251, 1) 100%
+	);
+
+	--gradient-vert-bar: linear-gradient(
+		180deg,
+		rgba(91, 95, 151, 1) 0%,
+		rgba(255, 107, 108, 1) 49%,
+		rgba(255, 255, 251, 1) 100%
+	);
+
+	--shadow: 10px 10px 59px -17px rgba(0, 0, 0, 0.75);
+
+	--color-bg: #f2f2f2;
+	--color-footer: rgba(211, 204, 227, 1);
+	--color-blog: #042c54;
+	--color-text: #2e0219;
+	--color-subtext: #28a084;
+	--color-subtext-alt: #31bc9b;
+}
